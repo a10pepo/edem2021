@@ -1,0 +1,25 @@
+ INFO [2020-09-30 15:53:41,493] ({main} RemoteInterpreterServer.java[main]:261) - URL:jar:file:/zeppelin/interpreter/sh/zeppelin-interpreter-0.8.1.jar!/org/apache/zeppelin/interpreter/remote/RemoteInterpreterServer.class
+ INFO [2020-09-30 15:53:41,623] ({main} RemoteInterpreterServer.java[<init>]:162) - Launching ThriftServer at 172.17.0.2:32769
+ INFO [2020-09-30 15:53:41,635] ({main} RemoteInterpreterServer.java[<init>]:166) - Starting remote interpreter server on port 32769
+ INFO [2020-09-30 15:53:41,638] ({Thread-0} RemoteInterpreterServer.java[run]:203) - Starting remote interpreter server on port 32769
+ INFO [2020-09-30 15:53:42,657] ({Thread-1} RemoteInterpreterUtils.java[registerInterpreter]:165) - callbackHost: 172.17.0.2, callbackPort: 38083, callbackInfo: CallbackInfo(host:172.17.0.2, port:32769)
+ INFO [2020-09-30 15:53:43,057] ({pool-1-thread-1} RemoteInterpreterServer.java[createInterpreter]:311) - Instantiate interpreter org.apache.zeppelin.shell.ShellInterpreter
+ WARN [2020-09-30 15:53:43,223] ({pool-1-thread-1} ZeppelinConfiguration.java[create]:117) - Failed to load configuration, proceeding with a default
+ INFO [2020-09-30 15:53:43,272] ({pool-1-thread-1} ZeppelinConfiguration.java[create]:129) - Server Host: 0.0.0.0
+ INFO [2020-09-30 15:53:43,272] ({pool-1-thread-1} ZeppelinConfiguration.java[create]:131) - Server Port: 8080
+ INFO [2020-09-30 15:53:43,273] ({pool-1-thread-1} ZeppelinConfiguration.java[create]:135) - Context Path: /
+ INFO [2020-09-30 15:53:43,277] ({pool-1-thread-1} ZeppelinConfiguration.java[create]:136) - Zeppelin Version: 0.8.1
+ INFO [2020-09-30 15:53:43,277] ({pool-1-thread-1} SchedulerFactory.java[<init>]:59) - Scheduler Thread Pool Size: 100
+ INFO [2020-09-30 15:53:43,297] ({pool-2-thread-2} SchedulerFactory.java[jobStarted]:114) - Job 20200930-155334_2093928516 started by scheduler org.apache.zeppelin.shell.ShellInterpreter1190995140
+ INFO [2020-09-30 15:53:43,313] ({pool-2-thread-2} ShellInterpreter.java[open]:66) - Command timeout property: 60000
+ INFO [2020-09-30 15:53:43,475] ({pool-2-thread-2} ShellInterpreter.java[interpret]:115) - Paragraph 20200930-155334_2093928516 return with exit value: 0
+ INFO [2020-09-30 15:53:43,495] ({pool-2-thread-2} SchedulerFactory.java[jobFinished]:120) - Job 20200930-155334_2093928516 finished by scheduler org.apache.zeppelin.shell.ShellInterpreter1190995140
+ INFO [2020-09-30 15:53:55,689] ({pool-2-thread-2} SchedulerFactory.java[jobStarted]:114) - Job 20200930-155340_590695 started by scheduler org.apache.zeppelin.shell.ShellInterpreter1190995140
+ INFO [2020-09-30 15:53:55,744] ({pool-2-thread-2} ShellInterpreter.java[interpret]:115) - Paragraph 20200930-155340_590695 return with exit value: 0
+ INFO [2020-09-30 15:53:55,763] ({pool-2-thread-2} SchedulerFactory.java[jobFinished]:120) - Job 20200930-155340_590695 finished by scheduler org.apache.zeppelin.shell.ShellInterpreter1190995140
+ INFO [2020-09-30 15:53:59,581] ({pool-2-thread-3} SchedulerFactory.java[jobStarted]:114) - Job 20200930-155355_171849304 started by scheduler org.apache.zeppelin.shell.ShellInterpreter1190995140
+ INFO [2020-09-30 15:53:59,637] ({pool-2-thread-3} ShellInterpreter.java[interpret]:115) - Paragraph 20200930-155355_171849304 return with exit value: 0
+ INFO [2020-09-30 15:53:59,637] ({pool-2-thread-3} SchedulerFactory.java[jobFinished]:120) - Job 20200930-155355_171849304 finished by scheduler org.apache.zeppelin.shell.ShellInterpreter1190995140
+ INFO [2020-09-30 15:54:02,979] ({pool-2-thread-2} SchedulerFactory.java[jobStarted]:114) - Job 20200930-155359_1430980987 started by scheduler org.apache.zeppelin.shell.ShellInterpreter1190995140
+ INFO [2020-09-30 15:54:03,063] ({pool-2-thread-2} ShellInterpreter.java[interpret]:115) - Paragraph 20200930-155359_1430980987 return with exit value: 0
+ INFO [2020-09-30 15:54:03,064] ({pool-2-thread-2} SchedulerFactory.java[jobFinished]:120) - Job 20200930-155359_1430980987 finished by scheduler org.apache.zeppelin.shell.ShellInterpreter1190995140
