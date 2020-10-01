@@ -1,4 +1,4 @@
-# Session ING-005 Get familiar with Notebooks: Zeppelin
+# Get familiar with Notebooks: Zeppelin
 # 1 : Get familiar
 
 [![N|Apache](https://www.nobleprog.es/sites/hitrahr/files/category_images/height100_scale/apache_zeppelin_training.png?t=0b7d8a8e)](https://zeppelin.apache.org/)
@@ -14,9 +14,9 @@ http://localhost:19999
 ```
 Once opened, import the notebook present in your folder:
 
-[![Zeppelin](Sessions/ING-Ingestion/ING-005/Exercises/Class/images/zeppelin_1.png)]
+[![Zeppelin](https://github.com/a10pepo/edem2021/blob/master/Sesiones/zeppelin/images/zeppelin_1.png)]
 
-[![Zeppelin](Sessions/ING-Ingestion/ING-005/Exercises/Class/images/zeppelin_2.png)]
+[![Zeppelin](https://github.com/a10pepo/edem2021/blob/master/Sesiones/zeppelin/images/zeppelin_2.png)]
 
 Now we will see different things we can configure inside a notebook what can we configure to adapt to our needs.
 
@@ -24,4 +24,4 @@ Now we will see different things we can configure inside a notebook what can we 
 
 Create a notebook with the following structure:
 
-[![Zeppelin](Sessions/ING-Ingestion/ING-005/Exercises/Class/images/zeppelin_3.png)]
+[![Zeppelin](https://github.com/a10pepo/edem2021/blob/master/Sesiones/zeppelin/images/zeppelin_3.png)]
