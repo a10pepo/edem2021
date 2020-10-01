@@ -68,7 +68,7 @@ CONTAINER ID        IMAGE                   COMMAND                  CREATED    
 82417ea3f4a7        apache/zeppelin:0.8.1   "/usr/bin/tini -- bi…"   2 minutes ago       Up 2 minutes        0.0.0.0:19999->8080/tcp   zeppelin
 ```
 
-#### Open your Explorer and go to localhost:8080
+#### Open your Explorer and go to localhost:19999
 
-[![Zeppelin](Sessions/ING-Ingestion/ING-005/Exercises/Class/images/zeppelin_0.png)](http://localhost:19999)
+[![Zeppelin](Sesiones/zeppelin/images/zeppelin_0.png)](http://localhost:19999)
 
