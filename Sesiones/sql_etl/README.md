@@ -24,7 +24,7 @@ Please follow this instructions to create your own database in local:
 
 `docker-compose up`
 
-4) Navigate to localhost:1234  (admin / password)
+4) Navigate to localhost:5050 (pgadmin4@pgadmin.org / admin)
 
 5) Create a new server with this config:
 
@@ -39,3 +39,5 @@ Please follow this instructions to create your own database in local:
 6) Create a database with name: **dvdrental**
 
 7) Database Restore from File **dvdrental/dvdrental.tar**
+
+s
