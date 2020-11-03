@@ -28,16 +28,15 @@ Please follow this instructions to create your own database in local:
 
 5) Create a new server with this config:
 
-*Host: db*
+*Host: postgres*
 
 *Port: 5432*
 
-*Username: gft*
+*Username: postgres*
 
-*Password:1234*
+*Password:Welcome01*
 
 6) Create a database with name: **dvdrental**
 
 7) Database Restore from File **dvdrental/dvdrental.tar**
 
-s
